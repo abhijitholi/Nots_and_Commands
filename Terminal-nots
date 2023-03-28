@@ -1,0 +1,19 @@
+ls: This command is used to list the contents of a directory. You can use the options -l and -h to get a detailed and human-readable output, respectively.
+
+cd: This command is used to change the current working directory. For example, cd Desktop will take you to the Desktop directory.
+
+mkdir: This command is used to create a new directory. For example, mkdir my_folder will create a new folder called "my_folder".
+
+rm: This command is used to remove files or directories. For example, rm file.txt will remove the file called "file.txt". Be careful when using this command, as it is irreversible.
+
+cp: This command is used to copy files or directories. For example, cp file.txt /path/to/new/location/ will copy the file "file.txt" to the specified location.
+
+mv: This command is used to move files or directories. For example, mv file.txt /path/to/new/location/ will move the file "file.txt" to the specified location.
+
+touch: This command is used to create an empty file. For example, touch new_file.txt will create a new empty file called "new_file.txt".
+
+sudo: This command is used to run a command with administrator privileges. For example, sudo apt-get update will run the "apt-get update" command with root privileges.
+
+grep: This command is used to search for a specific string in a file or output. For example, grep "search term" file.txt will search for the specified term in the file "file.txt".
+
+ssh: This command is used to connect to a remote server using SSH. For example, ssh username@hostname will connect to the specified remote server using the specified username.
